@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 INDEX VERSION 1.131+C:\DDD\.metadata\.plugins\org.eclipse.jdt.core
 1865797976.index
 1360870602.index
@@ -8,3 +9,12 @@ INDEX VERSION 1.131+C:\DDD\.metadata\.plugins\org.eclipse.jdt.core
 857582623.index
 2232277388.index
 285732054.index
+=======
+INDEX VERSION 1.131+D:\1TDSS\DDD\.metadata\.plugins\org.eclipse.jdt.core
+166751551.index
+285732054.index
+857582623.index
+2232277388.index
+1804419710.index
+160299662.index
+>>>>>>> 8e155250e780cf3c83fd20655d0fd3ebb9783bdc

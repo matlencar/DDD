@@ -1,6 +1,7 @@
 package br.com.fiap.primeiro.projeto;
 
 public class Pessoa {
+<<<<<<< HEAD
 	
 	//Atributos
 	//[tipo de dado] [nome do atributo];
@@ -24,4 +25,13 @@ public class Pessoa {
 	}
 	
 	
+=======
+
+	public static void main(String[] args) {
+		
+		System.out.println("Hello World");
+
+	}
+
+>>>>>>> 8e155250e780cf3c83fd20655d0fd3ebb9783bdc
 }
