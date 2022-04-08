@@ -4,7 +4,7 @@ public class Cor {
 
 	// Atributos
 
-	private String nome;
+	 String nome;
 	private int r = 0;
 	private int g = 0;
 	private int b = 0;

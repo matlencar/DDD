@@ -4,14 +4,14 @@ public class Carro {
 
 	// Atributos
 
-	 public String modelo;
-	 public int quantidadeLugares;
-	 public double comprimento;
-	 public int quantidadePortas;
-	 public int anoFabricacao;
-	 public Cor cor;
-	 public String placa;
-	 public float motor;
+	private String modelo;
+	private int quantidadeLugares;
+	private double comprimento;
+	private int quantidadePortas;
+	private int anoFabricacao;
+	private Cor cor;
+	private String placa;
+	private float motor;
 
 	// Getters and Setters <---- Encapsulamento
 
@@ -23,7 +23,7 @@ public class Carro {
 	public void setModelo(String modeloCarro) {
 		modelo = modeloCarro;
 	}
-	/*
+	
 	public int getQuantidadeLugares() {
 		return quantidadeLugares;
 	}
@@ -79,5 +79,5 @@ public class Carro {
 	public void setMotor(float motor) {
 		this.motor = motor;
 	}
-		*/
+		
 }

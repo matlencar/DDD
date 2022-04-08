@@ -13,7 +13,7 @@ public class Aviao {
 	private int quantidadeTurbinas;
 
 	// Getters and Setters <---- Encapsulamento
-	/*
+	
 	public String getModelo() {
 		return modelo;
 	}
@@ -69,5 +69,5 @@ public class Aviao {
 	public void setQuantidadeTurbinas(int quantidadeTurbinas) {
 		this.quantidadeTurbinas = quantidadeTurbinas;
 	}
-	*/
+	
 }

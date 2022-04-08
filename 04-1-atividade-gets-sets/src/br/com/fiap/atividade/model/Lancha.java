@@ -12,7 +12,7 @@ public class Lancha {
 	private int quantidadeMotores;
 
 	// Getters and Setters <---- Encapsulamento
-	/*
+	
 	public String getModelo() {
 		return modelo;
 	}
@@ -60,5 +60,5 @@ public class Lancha {
 	public void setQuantidadeMotores(int quantidadeMotores) {
 		this.quantidadeMotores = quantidadeMotores;
 	}
-	*/
+	
 }

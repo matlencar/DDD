@@ -7,7 +7,25 @@ public class Pastel {
 	private double valor;
 	private boolean pronto;
 
-	// Encapsulamento Getters and Setters (metodos para ler e escrever os valores dos atributos)
+	public void vender() {
+		prepararPastel();
+		entregar();
+	}
+
+	public void entregar() {
+		prepararPastel();
+		System.out.println("Entregando pastel");
+	}
+
+	private void prepararPastel() {
+		if (!pronto) {
+			System.out.println("Fritando o pastel...");
+			pronto = true;
+		}
+	}
+
+	// Encapsulamento Getters and Setters (metodos para ler e escrever os valores
+	// dos atributos)
 
 	// Metodos de leitura
 	public String getSabor() {
@@ -26,8 +44,8 @@ public class Pastel {
 	public void setValor(double valor) {
 		this.valor = valor;
 	}
-	
-	//Para boolean pode ser --> get ou is
+
+	// Para boolean pode ser --> get ou is
 	public boolean isPronto() {
 		return pronto;
 	}

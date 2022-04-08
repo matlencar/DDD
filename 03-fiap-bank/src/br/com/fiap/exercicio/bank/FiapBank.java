@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class FiapBank {
 
 	public static void main(String[] args) {
-<<<<<<< HEAD
 
 		// Instanciar o Scanner(objeto para ler o teclado)
 		Scanner leitor = new Scanner(System.in);
@@ -43,7 +42,6 @@ public class FiapBank {
 
 		// Fechar leitor
 		leitor.close();
-=======
 		
 		Scanner sc = new Scanner(System.in);
 		
@@ -70,11 +68,6 @@ public class FiapBank {
 		//Atribuir valores para a conta corrente
 		conta.saldo = 1500.00;
 		conta.titular = cliente; //<------Atribuindo um objeto a um atributo
-		
-		
-		
-		
->>>>>>> 8e155250e780cf3c83fd20655d0fd3ebb9783bdc
 
 	}
 

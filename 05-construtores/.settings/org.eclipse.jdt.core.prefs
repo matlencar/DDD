@@ -1,9 +1,5 @@
-=\=\=\=\=\=\=
-<<<<<<<=HEAD
->>>>>>>=8e155250e780cf3c83fd20655d0fd3ebb9783bdc
 eclipse.preferences.version=1
 org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
-org.eclipse.jdt.core.compiler.codegen.methodParameters=do not generate
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=15
 org.eclipse.jdt.core.compiler.codegen.unusedLocal=preserve
 org.eclipse.jdt.core.compiler.compliance=15
